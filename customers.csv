@@ -1,0 +1,4 @@
+CustomerID,CustomerName,Location,MembershipLevel
+101,Alice,Mumbai,Gold
+102,Bob,Delhi,Silver
+103,Charlie,Bangalore,Platinum
